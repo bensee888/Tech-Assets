@@ -12,6 +12,7 @@
 <td>HTTPS</td>
 <td>Link</td>
 </tr> 
+  
 <tr>
 <td>Taxi Availability</td>
 <td>Locations of available taxis</td>
@@ -19,6 +20,23 @@
 <td>Yes</td>
 <td><a href=https://data.gov.sg/developer>View</a></td>
 </tr>
+  
+<tr>
+<td>Traffic Images</td>
+<td>Latest images from traffic cameras all around Singapore</td>
+<td>apiKey</td>
+<td>Yes</td>
+<td><a href=https://data.gov.sg/developer>View</a></td>
+</tr>
+  
+<tr>
+<td>Carpark Availability</td>
+<td>Latest carpark availability</td>
+<td>apiKey</td>
+<td>Yes</td>
+<td><a href=https://data.gov.sg/developer>View</a></td>
+</tr>
+ 
 </table>
   
 
