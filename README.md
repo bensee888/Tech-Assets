@@ -1,16 +1,24 @@
 # Tech-Assets
 <H1>Transportation API</H1>
-  
-<table>
-  <tr>
-    <td><a href=Taxi Avaliability</a></td>
-    <td><a href=Locations of avaliability taxis</a></td>
-    <td><a href=apikey</a></td>
-    <td><a href=yes</a></td>
-    <td><a href=https://data.gov.sg/developer>Taxi Avaliability</a></td>
 
-  </tr>
+<body>
+
+<table>
+
+<tr>
+<td>API</td>
+<td>Description</td>
+<td>Auth</td>
+<td>HTTPS</td>
+<td>Link</td>
+</tr> 
+<tr>
+<td>Taxi Availability</td>
+<td>Locations of available taxis</td>
+<td>apiKey</td>
+<td>Yes</td>
+<td><a href=https://data.gov.sg/developer>View</a></td>
+</tr>
+</table>
   
-<a href=http://datamall2.mytransport.sg/ltaodataservice/BusArrivalv>Bus Service</a>
-  
-<a href=https://api.data.gov.sg/v1/transport/carpark-availability>Carpark Availability</a>
+
