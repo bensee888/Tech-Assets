@@ -62,3 +62,31 @@
 </tr>
 
 </table>
+
+<H1>LTA Platform Crowd Density API</H1>
+
+  
+<body>
+
+<table>
+
+<tr>
+
+<td>Description</td>
+<td>HTTPS</td>
+<td>Link</td>
+</tr> 
+  
+<tr>
+<td>LTA Platform Crowd Density Realtime API</td>
+<td>No</td>
+<td><a href=http://datamall2.mytransport.sg/ltaodataservice/PCDRealTime>View</a></td>
+</tr>
+
+<tr>
+<td>LTA Platform Crowd Density Forecast API</td>
+<td>No</td>
+<td><a href=http://datamall2.mytransport.sg/ltaodataservice/PCDForecast>View</a></td>
+</tr>
+  
+</table>
