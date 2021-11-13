@@ -65,7 +65,6 @@
 
 <H1>LTA Platform Crowd Density API</H1>
 
-  
 <body>
 
 <table>
@@ -90,3 +89,36 @@
 </tr>
   
 </table>
+
+
+<H1>TIH (Tourism Info Hub) API</H1>
+
+<body>
+  
+<table>
+
+<tr>
+
+<td>Description</td>
+<td>HTTPS</td>
+<td>Link</td>
+</tr> 
+
+<tr>
+
+<td>Searches across various tourism sectors to provide data-driven recommendations based on visitor profiles and interests API</td>
+<td>Yes</td>
+<td><a href=https://tih-dev.stb.gov.sg/recommendation-engine-api/apis/get/service/v1/content/recommendations>View</a></td>
+</tr>
+
+<tr>
+
+<td>Deal user and Provider API</td>
+<td>Yes</td>
+<td><a href=https://tih-dev.stb.gov.sg/deals-user-and-provider-api/apis>View</a></td>
+</tr>
+
+</table>
+  
+  
+  
